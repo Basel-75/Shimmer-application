@@ -1,7 +1,20 @@
-# Shimmer application
+# shimmer_app
 
-**Complete and submit the Shimmer, and Flutter shape maker Lab of the given design**
+A new Flutter project for create Food Offer screen with great UI and `Shimmer` package.
 
-**Note: Don't forget to include the Screenshots of your implementation**
+## Main Functionalities
 
-**Deadline: at 10:00 am, 22 Aug 2024**
+### Shimmer 
+![alt text](assest/readme/image.png) 
+
+### initState
+![alt text](assest/readme/image-1.png) 
+
+## output
+![alt text](assest/readme/image-2.png) 
+
+![alt text](assest/readme/shimmerGif.gif) 
+
+Feel free to use with account name mentioned
+
+by `Basel-75` Github
